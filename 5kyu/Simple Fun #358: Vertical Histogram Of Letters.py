@@ -1,4 +1,4 @@
-#
+# https://www.codewars.com/kata/59cf0ba5d751dffef300001f
 # 5 Kyu
 # Simple Fun #358: Vertical Histogram Of Letters
 
