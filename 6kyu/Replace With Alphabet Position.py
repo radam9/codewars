@@ -10,3 +10,8 @@ def alphabet_position(text):
     return " ".join(
         str(abc.index(letter) + 1) for letter in text.lower() if letter in abc
     )
+
+
+# Codewars Solution
+def alphabet_position(text):
+    return " ".join(str(ord(c) - 96) for c in text.lower() if c.isalpha())
