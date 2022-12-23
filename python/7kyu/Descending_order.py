@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python
+# https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 # 7 Kyu
 # Descending Order
 

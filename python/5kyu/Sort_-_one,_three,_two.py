@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d/train/python
+# https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d
 # 5 Kyu
 # Sort : one, three, two
 

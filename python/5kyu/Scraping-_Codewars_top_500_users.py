@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/581c06b95cfa838603000435/train/python
+# https://www.codewars.com/kata/581c06b95cfa838603000435
 # 5 Kyu
 # Scraping: Codewars Top 500 Users
 

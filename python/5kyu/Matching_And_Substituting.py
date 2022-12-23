@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/59de1e2fe50813a046000124/train/python
+# https://www.codewars.com/kata/59de1e2fe50813a046000124
 # 5 Kyu
 # Matching and Substituting
 

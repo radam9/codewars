@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5a9b4d104a6b341b42000070/train/python
+# https://www.codewars.com/kata/5a9b4d104a6b341b42000070
 # 5 Kyu
 # Sat Nav directions
 

@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/53368a47e38700bd8300030d/solutions/python
+# https://www.codewars.com/kata/53368a47e38700bd8300030d
 # 7kyu
 # Format a string of names like 'Bart, Lisa & Maggie'.
 

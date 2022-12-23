@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/556c04c72ee1147ff20000c9/train/python
+# https://www.codewars.com/kata/556c04c72ee1147ff20000c9
 # 4 Kyu
 # Social Golfer Problem Validator
 

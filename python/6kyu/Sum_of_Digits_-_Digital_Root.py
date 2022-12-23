@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/541c8630095125aba6000c00/train/python
+# https://www.codewars.com/kata/541c8630095125aba6000c00
 # 6 Kyu
 # Sum of Digits / Digital Root
 

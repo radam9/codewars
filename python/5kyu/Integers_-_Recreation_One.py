@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/55aa075506463dac6600010d/train/python
+# https://www.codewars.com/kata/55aa075506463dac6600010d
 # 5 Kyu
 # Integers: Recreation One
 

@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/523f5d21c841566fde000009/solutions/python
+# https://www.codewars.com/kata/523f5d21c841566fde000009
 # 6 Kyu
 # Array.diff
 

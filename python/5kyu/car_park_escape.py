@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/591eab1d192fe0435e000014/train/python
+# https://www.codewars.com/kata/591eab1d192fe0435e000014
 # 5 Kyu
 # Car Park Escape
 

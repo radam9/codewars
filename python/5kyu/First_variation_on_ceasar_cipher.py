@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5508249a98b3234f420000fb/train/python
+# https://www.codewars.com/kata/5508249a98b3234f420000fb
 # 5 Kyu
 # First Variation on Ceasar Cipher
 

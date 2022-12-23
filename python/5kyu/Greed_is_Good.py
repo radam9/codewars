@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5270d0d18625160ada0000e4/train/python
+# https://www.codewars.com/kata/5270d0d18625160ada0000e4
 # 5 Kyu
 # Greed is Good
 

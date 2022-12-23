@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/539a0e4d85e3425cb0000a88/solutions/python
+# https://www.codewars.com/kata/539a0e4d85e3425cb0000a88
 # 5 Kyu
 # A Chain adding function
 
