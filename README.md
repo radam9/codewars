@@ -1,2 +1,3 @@
-# Codewars
-Repo with codewars challanges
+# Coding-challenges
+
+Repo with coding challenges
